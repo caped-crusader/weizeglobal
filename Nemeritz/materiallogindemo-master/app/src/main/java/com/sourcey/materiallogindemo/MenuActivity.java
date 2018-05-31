@@ -43,14 +43,14 @@ public class MenuActivity extends AppCompatActivity {
         _logoutButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                //TODO
+                navigateToMenu(findViewById(R.id.btn_logout));
             }
         });
 
         _profileButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                navigateToMenu(findViewById(R.id.btn_logout));
+                //TODO
             }
         });
     }

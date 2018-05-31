@@ -50,7 +50,9 @@ public class LoginActivity extends AppCompatActivity {
         //check if the user is already logged in
         AccessToken accessToken = AccessToken.getCurrentAccessToken();
         boolean isLoggedIn = accessToken != null && !accessToken.isExpired();
-        navigateToMenu(findViewById(R.id.btn_login));
+        if (isLoggedIn) {
+            navigateToMenu(findViewById(R.id.btn_login));
+        }
 
         //FACEBOOK
         facebookButtonInit();
