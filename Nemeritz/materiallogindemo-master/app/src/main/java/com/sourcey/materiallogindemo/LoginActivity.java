@@ -7,12 +7,14 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
 import android.content.Intent;
+import android.view.Menu;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.facebook.AccessToken;
 import com.facebook.CallbackManager;
 import com.facebook.FacebookCallback;
 import com.facebook.FacebookException;
@@ -45,6 +47,11 @@ public class LoginActivity extends AppCompatActivity {
         setContentView(R.layout.activity_login);
         ButterKnife.bind(this);
 
+        //check if the user is already logged in
+        AccessToken accessToken = AccessToken.getCurrentAccessToken();
+        boolean isLoggedIn = accessToken != null && !accessToken.isExpired();
+        navigateToMenu(findViewById(R.id.btn_login));
+
         //FACEBOOK
         facebookButtonInit();
         FacebookSdk.sdkInitialize(getApplicationContext());
@@ -56,9 +63,9 @@ public class LoginActivity extends AppCompatActivity {
 
             @Override
             public void onSuccess(LoginResult loginResult) {
-                showAlertDialogButtonClicked("Success", findViewById(R.id.btn_fb));
+                //showAlertDialogButtonClicked("Success", findViewById(R.id.btn_fb));
+                navigateToMenu(findViewById(R.id.btn_login));
             }
-
 
             @Override
             public void onCancel() {
@@ -203,5 +210,15 @@ public class LoginActivity extends AppCompatActivity {
         loginButton.setBackgroundResource(R.drawable.fb);
         loginButton.setText("");
         loginButton.setCompoundDrawablesWithIntrinsicBounds(null, null, null, null);
+    }
+
+    //refractor to more general function when find out how to ass Activity as a prameter
+    private void navigateToMenu(View view) {
+        Intent myIntent = new Intent(LoginActivity.this, MenuActivity.class);
+        //myIntent.putExtra("key", value); //Optional parameters
+        startActivity(myIntent);
+
+        //Uncomment below to sto user being able to go back to the login Page after they logged in
+        //finish();
     }
 }
