@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/34de2cb01cac4072a3fd96e6018913e5/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.51.0.aar\\cae114246211e4b6f842ad92bf818dc8\\res\\xml\\preferences.xml"
+    }
+]

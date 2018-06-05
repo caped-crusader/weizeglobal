@@ -1,0 +1,261 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:1:1-40:12
+MERGED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-36:12
+MERGED from [:react-native-background-timer] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-background-timer\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fetch-blob] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-fetch-blob\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-immersive] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-immersive\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-keep-awake] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-keep-awake\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-locale-detector] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-locale-detector\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-sound] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-sound\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-vector-icons] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webrtc] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-webrtc\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-calendar-events] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-calendar-events\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\cae114246211e4b6f842ad92bf818dc8\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\5062809c22d62073e17e82549b4081f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\4210368c8227768bf100f5f0c6156db4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\7e6506982d84352d725b5f7037d667ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\efb77a2d64eb9bfcb0b4a67fb08e4711\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\4ae81b2c9e4f8aff9a3560d364ae76c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\70c7a1bbe0fa08f176af5ad67a3dbadf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\fb47d48cea5787264edf72905da871ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\f96b6b1e4762eaa3a1a53b644526663a\AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\b132963b3805179a49d0c3891dc14101\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\11b006102dd83f9cdf30d65891631ada\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\ccbd5aaecbc408eee55b4e9d635cfbe0\AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\1a0ec1c42aaf6cba752e3b1f6aad1ee8\AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\13d3df97bf39bc28b290df3ea834e489\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\5b57919747f6e0574172c3f73f65fd12\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\55b7dd296bf8ba9f6c751cf803e1e863\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\fa5dcd6168f2ab1e6efcdaac4ac84e67\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\1a3fa762f62032699f8c4783a7ee1569\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:1:1-40:12
+INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:1:1-40:12
+	package
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:1:1-40:12
+		INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:1:1-40:12
+		INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:2:5-63
+application
+ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:4:3-39:17
+MERGED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:29:5-34:19
+MERGED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:29:5-34:19
+MERGED from [:react-native-fetch-blob] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-fetch-blob\android\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-fetch-blob] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-fetch-blob\android\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\cae114246211e4b6f842ad92bf818dc8\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\cae114246211e4b6f842ad92bf818dc8\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\ccbd5aaecbc408eee55b4e9d635cfbe0\AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\ccbd5aaecbc408eee55b4e9d635cfbe0\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\1a0ec1c42aaf6cba752e3b1f6aad1ee8\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\1a0ec1c42aaf6cba752e3b1f6aad1ee8\AndroidManifest.xml:2:3-17
+	android:supportsRtl
+		ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:32:9-35
+	android:label
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:7:7-39
+	android:icon
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:6:7-41
+	android:allowBackup
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:5:7-33
+	android:theme
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#org.jitsi.meet.MainActivity
+ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:9:5-38:16
+	android:label
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:11:9-41
+	android:launchMode
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:12:9-40
+	android:windowSoftInputMode
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:16:9-51
+	android:supportsPictureInPicture
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:15:9-48
+	android:resizeableActivity
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:14:9-42
+	android:configChanges
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:10:9-111
+	android:name
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:13:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:17:7-20:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:18:9-61
+	android:name
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:18:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:19:9-69
+	android:name
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:19:19-66
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:21:7-31:23
+action#android.intent.action.VIEW
+ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:22:9-61
+	android:name
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:22:17-58
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:23:9-70
+	android:name
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:23:19-67
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:24:9-68
+	android:name
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:24:19-65
+data
+ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:25:9-71
+	android:host
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:25:15-45
+	android:scheme
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:25:46-68
+uses-sdk
+INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml
+MERGED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-background-timer] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-background-timer\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-timer] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-background-timer\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fetch-blob] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-fetch-blob\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fetch-blob] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-fetch-blob\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-immersive] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-immersive\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-immersive] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-immersive\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-keep-awake] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-keep-awake\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-keep-awake] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-keep-awake\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-locale-detector] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-locale-detector\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-locale-detector] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-locale-detector\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sound] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-sound\android\build\intermediates\manifests\full\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:react-native-sound] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-sound\android\build\intermediates\manifests\full\release\AndroidManifest.xml:9:5-11:41
+MERGED from [:react-native-vector-icons] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webrtc] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-webrtc\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webrtc] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-webrtc\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-calendar-events] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-calendar-events\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-calendar-events] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-calendar-events\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\cae114246211e4b6f842ad92bf818dc8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\cae114246211e4b6f842ad92bf818dc8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\5062809c22d62073e17e82549b4081f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\5062809c22d62073e17e82549b4081f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\4210368c8227768bf100f5f0c6156db4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\4210368c8227768bf100f5f0c6156db4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\7e6506982d84352d725b5f7037d667ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\7e6506982d84352d725b5f7037d667ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\efb77a2d64eb9bfcb0b4a67fb08e4711\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\efb77a2d64eb9bfcb0b4a67fb08e4711\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\4ae81b2c9e4f8aff9a3560d364ae76c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\4ae81b2c9e4f8aff9a3560d364ae76c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\70c7a1bbe0fa08f176af5ad67a3dbadf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\70c7a1bbe0fa08f176af5ad67a3dbadf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\fb47d48cea5787264edf72905da871ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\fb47d48cea5787264edf72905da871ee\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\f96b6b1e4762eaa3a1a53b644526663a\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\f96b6b1e4762eaa3a1a53b644526663a\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\b132963b3805179a49d0c3891dc14101\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\b132963b3805179a49d0c3891dc14101\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\11b006102dd83f9cdf30d65891631ada\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\11b006102dd83f9cdf30d65891631ada\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\ccbd5aaecbc408eee55b4e9d635cfbe0\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\ccbd5aaecbc408eee55b4e9d635cfbe0\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\13d3df97bf39bc28b290df3ea834e489\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\13d3df97bf39bc28b290df3ea834e489\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\5b57919747f6e0574172c3f73f65fd12\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\5b57919747f6e0574172c3f73f65fd12\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\55b7dd296bf8ba9f6c751cf803e1e863\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\55b7dd296bf8ba9f6c751cf803e1e863\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\fa5dcd6168f2ab1e6efcdaac4ac84e67\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\fa5dcd6168f2ab1e6efcdaac4ac84e67\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\1a3fa762f62032699f8c4783a7ee1569\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\1a3fa762f62032699f8c4783a7ee1569\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.CAMERA
+ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.INTERNET
+ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:14:22-68
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:15:5-78
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\cae114246211e4b6f842ad92bf818dc8\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.51.0] C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\cae114246211e4b6f842ad92bf818dc8\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:15:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:17:22-73
+uses-feature#0x00020000
+ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:19:5-21:35
+	android:glEsVersion
+		ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:20:9-41
+	android:required
+		ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:21:9-32
+uses-feature#android.hardware.camera
+ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:23:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:26:9-57
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:33:9-86
+	android:name
+		ADDED from [:sdk] C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\manifests\full\release\AndroidManifest.xml:33:19-83
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from [:react-native-calendar-events] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-calendar-events\android\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from [:react-native-calendar-events] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-calendar-events\android\build\intermediates\manifests\full\release\AndroidManifest.xml:11:22-70
+uses-permission#android.permission.READ_CALENDAR
+ADDED from [:react-native-calendar-events] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-calendar-events\android\build\intermediates\manifests\full\release\AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from [:react-native-calendar-events] C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-calendar-events\android\build\intermediates\manifests\full\release\AndroidManifest.xml:12:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:1:1-40:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:1:1-40:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\gautam\StudioProjects\weize1.1\android\app\src\main\AndroidManifest.xml:1:1-40:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

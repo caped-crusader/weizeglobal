@@ -1,0 +1,132 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\values-pa\\values-pa.xml",
+            "map": [
+                {
+                    "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,305,410,496,596,709,786,862,941,1042,1146,1243,1352,1451,1561,1720,1820",
+                        "endColumns": "102,96,104,85,99,112,76,75,78,100,103,96,108,98,109,158,99,79",
+                        "endOffsets": "203,300,405,491,591,704,781,857,936,1037,1141,1238,1347,1446,1556,1715,1815,1895"
+                    }
+                },
+                {
+                    "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\fb47d48cea5787264edf72905da871ee\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1900",
+                        "endColumns": "100",
+                        "endOffsets": "1996"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
+            "map": [
+                {
+                    "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,305,410,496,596,709,786,862,941,1042,1146,1243,1352,1451,1561,1720,1820",
+                        "endColumns": "102,96,104,85,99,112,76,75,78,100,103,96,108,98,109,158,99,79",
+                        "endOffsets": "203,300,405,491,591,704,781,857,936,1037,1141,1238,1347,1446,1556,1715,1815,1895"
+                    }
+                },
+                {
+                    "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\fb47d48cea5787264edf72905da871ee\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1900",
+                        "endColumns": "100",
+                        "endOffsets": "1996"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/values-pa/values-pa.xml",
+            "map": [
+                {
+                    "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,305,410,496,596,709,786,862,941,1042,1146,1243,1352,1451,1561,1720,1820",
+                        "endColumns": "102,96,104,85,99,112,76,75,78,100,103,96,108,98,109,158,99,79",
+                        "endOffsets": "203,300,405,491,591,704,781,857,936,1037,1141,1238,1347,1446,1556,1715,1815,1895"
+                    }
+                },
+                {
+                    "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e84538f8daa27a367b125aed44772050/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1900",
+                        "endColumns": "100",
+                        "endOffsets": "1996"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
+            "map": [
+                {
+                    "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,208,305,410,496,596,709,786,862,941,1042,1146,1243,1352,1451,1561,1720,1820",
+                        "endColumns": "102,96,104,85,99,112,76,75,78,100,103,96,108,98,109,158,99,79",
+                        "endOffsets": "203,300,405,491,591,704,781,857,936,1037,1141,1238,1347,1446,1556,1715,1815,1895"
+                    }
+                },
+                {
+                    "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e84538f8daa27a367b125aed44772050/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1900",
+                        "endColumns": "100",
+                        "endOffsets": "1996"
+                    }
+                }
+            ]
+        }
+    ]
+}

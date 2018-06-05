@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\values-v13\\values-v13.xml",
+            "map": [
+                {
+                    "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+            "map": [
+                {
+                    "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/values-v13/values-v13.xml",
+            "map": [
+                {
+                    "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/values-v13/values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
+            "map": [
+                {
+                    "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/values-v13/values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

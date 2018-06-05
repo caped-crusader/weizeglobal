@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/color-v23/abc_btn_colored_text_material.xml"
+    }
+]

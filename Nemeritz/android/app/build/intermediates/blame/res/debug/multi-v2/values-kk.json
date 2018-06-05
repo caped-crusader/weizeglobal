@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kk\\values-kk.xml",
+            "map": [
+                {
+                    "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\fb47d48cea5787264edf72905da871ee\\res\\values-kk\\values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1950",
+                        "endColumns": "100",
+                        "endOffsets": "2046"
+                    }
+                },
+                {
+                    "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\values-kk\\values-kk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,217,320,430,515,621,740,821,901,982,1085,1190,1288,1395,1504,1604,1770,1869",
+                        "endColumns": "111,102,109,84,105,118,80,79,80,102,104,97,106,108,99,165,98,80",
+                        "endOffsets": "212,315,425,510,616,735,816,896,977,1080,1185,1283,1390,1499,1599,1765,1864,1945"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/chris/Desktop/weize1.1/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml",
+            "map": [
+                {
+                    "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/ec09ef6c0e16d5c9ff0f1b2da28edf8d/res/values-kk/values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1950",
+                        "endColumns": "100",
+                        "endOffsets": "2046"
+                    }
+                },
+                {
+                    "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/10f4366e27343fdf49a3624a18a73cbf/res/values-kk/values-kk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,217,320,430,515,621,740,821,901,982,1085,1190,1288,1395,1504,1604,1770,1869",
+                        "endColumns": "111,102,109,84,105,118,80,79,80,102,104,97,106,108,99,165,98,80",
+                        "endOffsets": "212,315,425,510,616,735,816,896,977,1080,1185,1283,1390,1499,1599,1765,1864,1945"
+                    }
+                }
+            ]
+        }
+    ]
+}

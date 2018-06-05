@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e84538f8daa27a367b125aed44772050/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_view.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.51.0.aar\\cae114246211e4b6f842ad92bf818dc8\\res\\layout\\redbox_view.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/redbox_view.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/34de2cb01cac4072a3fd96e6018913e5/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/fps_view.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/34de2cb01cac4072a3fd96e6018913e5/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\fb47d48cea5787264edf72905da871ee\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e84538f8daa27a367b125aed44772050/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\fb47d48cea5787264edf72905da871ee\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_item_frame.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.51.0.aar\\cae114246211e4b6f842ad92bf818dc8\\res\\layout\\redbox_item_frame.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\dev_loading_view.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.51.0.aar\\cae114246211e4b6f842ad92bf818dc8\\res\\layout\\dev_loading_view.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\fb47d48cea5787264edf72905da871ee\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e84538f8daa27a367b125aed44772050/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/34de2cb01cac4072a3fd96e6018913e5/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/tooltip.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\fb47d48cea5787264edf72905da871ee\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\tooltip.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\tooltip.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\fb47d48cea5787264edf72905da871ee\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/34de2cb01cac4072a3fd96e6018913e5/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/34de2cb01cac4072a3fd96e6018913e5/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e84538f8daa27a367b125aed44772050/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e84538f8daa27a367b125aed44772050/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\fps_view.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.51.0.aar\\cae114246211e4b6f842ad92bf818dc8\\res\\layout\\fps_view.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/e5f0526990c2a387c215ca40196dcacf/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\5062809c22d62073e17e82549b4081f4\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout\\redbox_item_title.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.51.0.aar\\cae114246211e4b6f842ad92bf818dc8\\res\\layout\\redbox_item_title.xml"
+    }
+]

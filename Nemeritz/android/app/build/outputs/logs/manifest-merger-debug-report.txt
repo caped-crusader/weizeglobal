@@ -1,0 +1,400 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:1:1-93:12
+INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:1:1-93:12
+INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:1:1-93:12
+INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:1:1-93:12
+MERGED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:design:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3183dcd7016d3fda7c3637d3f7ef1b74/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.33.0.aar/7028715d068b625a9a75f64316131eb6/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-login-4.33.0.aar/0c9bcae514494235b2568c354a724d2e/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-share-4.33.0.aar/8347b55aaa89a2cf771266269a76b2e6/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/7a2f550b032a577a9463eb135091242e/AndroidManifest.xml:21:1-36:12
+MERGED from [:react-native-background-timer] /home/chris/Desktop/weize1.1/node_modules/react-native-background-timer/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fetch-blob] /home/chris/Desktop/weize1.1/node_modules/react-native-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-immersive] /home/chris/Desktop/weize1.1/node_modules/react-native-immersive/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-keep-awake] /home/chris/Desktop/weize1.1/node_modules/react-native-keep-awake/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-locale-detector] /home/chris/Desktop/weize1.1/node_modules/react-native-locale-detector/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-sound] /home/chris/Desktop/weize1.1/node_modules/react-native-sound/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-vector-icons] /home/chris/Desktop/weize1.1/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webrtc] /home/chris/Desktop/weize1.1/node_modules/react-native-webrtc/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-calendar-events] /home/chris/Desktop/weize1.1/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.react:react-native:0.51.0] /home/chris/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/34de2cb01cac4072a3fd96e6018913e5/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/10f4366e27343fdf49a3624a18a73cbf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/chris/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/10f4c5cbca43b79ac257c4c4378f8400/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/57b52e8f794e4ea0ebf2069606d8b3c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/0dd5426994db1019e290a5b8c46c383a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-places-4.33.0.aar/ca2a1fe9428ffc6818341e5ad00ecf6c/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.33.0.aar/53361bec41ebe4df0273af8b835fa368/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.33.0.aar/2667e2a26fb88ffde294d94f27ce3b61/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/dc14180b3d076073193a1ae7a92fc0c3/AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:support-v4:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/4e199d1c7d00abdd2f8b180c16f78ea3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/e0baaa63c4ad99b8b5d6215445637037/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/f6c061c30a6e01368dd0f1a9b7b86dde/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/64907b0fcd591e402a3127dd3042a98b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/chris/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/9653779614ecdb47d6c21fe9881cf786/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /home/chris/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/028809227379d12185efd278f33f34af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/e7a1fbd6985c847cbdc9c3d2b785c454/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/e28568d942ac12c57ead741f7a86fa68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/3332f66e11493326e700edab98c63ca6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/ec09ef6c0e16d5c9ff0f1b2da28edf8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/chris/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/3c2ec811f22bc20fc1fbc839e7873a63/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/chris/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/577e3a74c8bdba3ea372f648053ee949/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/chris/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/b94e6f66449eb5f2261843a9a027ab19/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cabe084d0cb2a08b28913372a2d2295e/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /home/chris/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a66cab875b9a6fa6bf33af6995b7bddf/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/chris/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/94c386fade4adbcf3a8143cccfea96c8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/chris/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/546b5ea4f20fa204d824c8e32a96ecff/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/chris/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/d3bcf8aad26a7e2cda4af8982f5e5b9b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/chris/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/6ea4d5eb438e4ee75a9a5b4ff6ca55b9/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7b5afeffcd9ce30804a927e5e2931a11/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/50c690d19fb1980b9dcb086a441ca34d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/909b75107ca111b8dae3070542c5a00c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/788d9cdbc83d63672f36078baa6f9ce5/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:1:1-93:12
+INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:1:1-93:12
+INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:1:1-93:12
+	package
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:1:1-93:12
+		INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:1:1-93:12
+		INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:2:5-63
+uses-permission#android.permission.INTERNET
+ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:4:3-65
+MERGED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-67
+MERGED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:4:20-62
+application
+ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:5:3-92:17
+MERGED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:5-34:19
+MERGED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:5-34:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.33.0.aar/7028715d068b625a9a75f64316131eb6/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.33.0.aar/7028715d068b625a9a75f64316131eb6/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-login-4.33.0.aar/0c9bcae514494235b2568c354a724d2e/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-login-4.33.0.aar/0c9bcae514494235b2568c354a724d2e/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-share-4.33.0.aar/8347b55aaa89a2cf771266269a76b2e6/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-share-4.33.0.aar/8347b55aaa89a2cf771266269a76b2e6/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/7a2f550b032a577a9463eb135091242e/AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/7a2f550b032a577a9463eb135091242e/AndroidManifest.xml:28:5-34:19
+MERGED from [:react-native-fetch-blob] /home/chris/Desktop/weize1.1/node_modules/react-native-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-fetch-blob] /home/chris/Desktop/weize1.1/node_modules/react-native-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.51.0] /home/chris/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/34de2cb01cac4072a3fd96e6018913e5/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.51.0] /home/chris/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/34de2cb01cac4072a3fd96e6018913e5/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.android:facebook-places:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-places-4.33.0.aar/ca2a1fe9428ffc6818341e5ad00ecf6c/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-places-4.33.0.aar/ca2a1fe9428ffc6818341e5ad00ecf6c/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.33.0.aar/53361bec41ebe4df0273af8b835fa368/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.33.0.aar/53361bec41ebe4df0273af8b835fa368/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.33.0.aar/2667e2a26fb88ffde294d94f27ce3b61/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.33.0.aar/2667e2a26fb88ffde294d94f27ce3b61/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/dc14180b3d076073193a1ae7a92fc0c3/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/dc14180b3d076073193a1ae7a92fc0c3/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cabe084d0cb2a08b28913372a2d2295e/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cabe084d0cb2a08b28913372a2d2295e/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/chris/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a66cab875b9a6fa6bf33af6995b7bddf/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/chris/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a66cab875b9a6fa6bf33af6995b7bddf/AndroidManifest.xml:2:3-17
+	android:supportsRtl
+		ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:32:9-35
+	android:label
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:icon
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:6:7-33
+	android:theme
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:9:7-38
+activity#org.jitsi.meet.MenuActivity
+ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:10:5-39:16
+	android:label
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:12:9-41
+	android:launchMode
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:13:9-40
+	android:windowSoftInputMode
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:supportsPictureInPicture
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:16:9-48
+	android:resizeableActivity
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:15:9-42
+	android:configChanges
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:11:9-111
+	android:name
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:18:7-21:23
+action#android.intent.action.MAIN
+ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:19:9-61
+	android:name
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:19:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:20:9-69
+	android:name
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:20:19-66
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:22:7-32:23
+action#android.intent.action.VIEW
+ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:23:9-61
+	android:name
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:23:17-58
+category#android.intent.category.BROWSABLE
+ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:24:9-70
+	android:name
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:24:19-67
+category#android.intent.category.DEFAULT
+ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:25:9-68
+	android:name
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:25:19-65
+data
+ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:26:9-71
+	android:host
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:26:15-45
+	android:scheme
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:26:46-68
+activity#org.jitsi.meet.ConferenceActivity
+ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:40:5-65:16
+	android:label
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:42:9-41
+	android:launchMode
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:43:9-40
+	android:windowSoftInputMode
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:47:9-51
+	android:supportsPictureInPicture
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:46:9-48
+	android:resizeableActivity
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:45:9-42
+	android:configChanges
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:41:9-111
+	android:name
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:44:9-43
+activity#org.jitsi.meet.WebActivity
+ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:66:5-91:16
+	android:label
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:68:9-41
+	android:launchMode
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:69:9-40
+	android:windowSoftInputMode
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:73:9-51
+	android:supportsPictureInPicture
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:72:9-48
+	android:resizeableActivity
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:71:9-42
+	android:configChanges
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:67:9-111
+	android:name
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:70:9-36
+uses-sdk
+INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml
+MERGED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3183dcd7016d3fda7c3637d3f7ef1b74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/3183dcd7016d3fda7c3637d3f7ef1b74/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.33.0.aar/7028715d068b625a9a75f64316131eb6/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.33.0.aar/7028715d068b625a9a75f64316131eb6/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-login-4.33.0.aar/0c9bcae514494235b2568c354a724d2e/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-login-4.33.0.aar/0c9bcae514494235b2568c354a724d2e/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-share-4.33.0.aar/8347b55aaa89a2cf771266269a76b2e6/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-share-4.33.0.aar/8347b55aaa89a2cf771266269a76b2e6/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/7a2f550b032a577a9463eb135091242e/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/7a2f550b032a577a9463eb135091242e/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-background-timer] /home/chris/Desktop/weize1.1/node_modules/react-native-background-timer/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-timer] /home/chris/Desktop/weize1.1/node_modules/react-native-background-timer/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fetch-blob] /home/chris/Desktop/weize1.1/node_modules/react-native-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fetch-blob] /home/chris/Desktop/weize1.1/node_modules/react-native-fetch-blob/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-immersive] /home/chris/Desktop/weize1.1/node_modules/react-native-immersive/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-immersive] /home/chris/Desktop/weize1.1/node_modules/react-native-immersive/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-keep-awake] /home/chris/Desktop/weize1.1/node_modules/react-native-keep-awake/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-keep-awake] /home/chris/Desktop/weize1.1/node_modules/react-native-keep-awake/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-locale-detector] /home/chris/Desktop/weize1.1/node_modules/react-native-locale-detector/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-locale-detector] /home/chris/Desktop/weize1.1/node_modules/react-native-locale-detector/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sound] /home/chris/Desktop/weize1.1/node_modules/react-native-sound/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [:react-native-sound] /home/chris/Desktop/weize1.1/node_modules/react-native-sound/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-11:41
+MERGED from [:react-native-vector-icons] /home/chris/Desktop/weize1.1/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/chris/Desktop/weize1.1/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webrtc] /home/chris/Desktop/weize1.1/node_modules/react-native-webrtc/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webrtc] /home/chris/Desktop/weize1.1/node_modules/react-native-webrtc/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-calendar-events] /home/chris/Desktop/weize1.1/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-calendar-events] /home/chris/Desktop/weize1.1/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.51.0] /home/chris/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/34de2cb01cac4072a3fd96e6018913e5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.51.0] /home/chris/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/34de2cb01cac4072a3fd96e6018913e5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/10f4366e27343fdf49a3624a18a73cbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/10f4366e27343fdf49a3624a18a73cbf/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/chris/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/10f4c5cbca43b79ac257c4c4378f8400/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /home/chris/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/10f4c5cbca43b79ac257c4c4378f8400/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/57b52e8f794e4ea0ebf2069606d8b3c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/57b52e8f794e4ea0ebf2069606d8b3c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/0dd5426994db1019e290a5b8c46c383a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/0dd5426994db1019e290a5b8c46c383a/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-places-4.33.0.aar/ca2a1fe9428ffc6818341e5ad00ecf6c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-places-4.33.0.aar/ca2a1fe9428ffc6818341e5ad00ecf6c/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.33.0.aar/53361bec41ebe4df0273af8b835fa368/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.33.0.aar/53361bec41ebe4df0273af8b835fa368/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.33.0.aar/2667e2a26fb88ffde294d94f27ce3b61/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.33.0.aar/2667e2a26fb88ffde294d94f27ce3b61/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/dc14180b3d076073193a1ae7a92fc0c3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/dc14180b3d076073193a1ae7a92fc0c3/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-v4:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/4e199d1c7d00abdd2f8b180c16f78ea3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/4e199d1c7d00abdd2f8b180c16f78ea3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/e0baaa63c4ad99b8b5d6215445637037/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/e0baaa63c4ad99b8b5d6215445637037/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/f6c061c30a6e01368dd0f1a9b7b86dde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/f6c061c30a6e01368dd0f1a9b7b86dde/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/64907b0fcd591e402a3127dd3042a98b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/64907b0fcd591e402a3127dd3042a98b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/chris/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/9653779614ecdb47d6c21fe9881cf786/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/chris/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/9653779614ecdb47d6c21fe9881cf786/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /home/chris/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/028809227379d12185efd278f33f34af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /home/chris/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/028809227379d12185efd278f33f34af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/e7a1fbd6985c847cbdc9c3d2b785c454/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/e7a1fbd6985c847cbdc9c3d2b785c454/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/e28568d942ac12c57ead741f7a86fa68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/e28568d942ac12c57ead741f7a86fa68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/3332f66e11493326e700edab98c63ca6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/3332f66e11493326e700edab98c63ca6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/ec09ef6c0e16d5c9ff0f1b2da28edf8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/ec09ef6c0e16d5c9ff0f1b2da28edf8d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/chris/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/3c2ec811f22bc20fc1fbc839e7873a63/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/chris/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/3c2ec811f22bc20fc1fbc839e7873a63/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/chris/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/577e3a74c8bdba3ea372f648053ee949/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /home/chris/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/577e3a74c8bdba3ea372f648053ee949/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/chris/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/b94e6f66449eb5f2261843a9a027ab19/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /home/chris/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/b94e6f66449eb5f2261843a9a027ab19/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cabe084d0cb2a08b28913372a2d2295e/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/cabe084d0cb2a08b28913372a2d2295e/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/chris/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/94c386fade4adbcf3a8143cccfea96c8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /home/chris/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/94c386fade4adbcf3a8143cccfea96c8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/chris/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/546b5ea4f20fa204d824c8e32a96ecff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /home/chris/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/546b5ea4f20fa204d824c8e32a96ecff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/chris/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/d3bcf8aad26a7e2cda4af8982f5e5b9b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /home/chris/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/d3bcf8aad26a7e2cda4af8982f5e5b9b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/chris/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/6ea4d5eb438e4ee75a9a5b4ff6ca55b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /home/chris/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/6ea4d5eb438e4ee75a9a5b4ff6ca55b9/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7b5afeffcd9ce30804a927e5e2931a11/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/7b5afeffcd9ce30804a927e5e2931a11/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/50c690d19fb1980b9dcb086a441ca34d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/50c690d19fb1980b9dcb086a441ca34d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/909b75107ca111b8dae3070542c5a00c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/909b75107ca111b8dae3070542c5a00c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/788d9cdbc83d63672f36078baa6f9ce5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/chris/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/788d9cdbc83d63672f36078baa6f9ce5/AndroidManifest.xml:20:5-44
+INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.CAMERA
+ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:22-68
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:5-78
+MERGED from [com.facebook.react:react-native:0.51.0] /home/chris/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/34de2cb01cac4072a3fd96e6018913e5/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.51.0] /home/chris/.gradle/caches/transforms-1/files-1.1/react-native-0.51.0.aar/34de2cb01cac4072a3fd96e6018913e5/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:22-73
+uses-feature#0x00020000
+ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:5-21:35
+	android:glEsVersion
+		ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:9-41
+	android:required
+		ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:21:9-32
+uses-feature#android.hardware.camera
+ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:23:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:26:9-57
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:9-86
+	android:name
+		ADDED from [:sdk] /home/chris/Desktop/weize1.1/android/sdk/build/intermediates/manifests/full/debug/AndroidManifest.xml:33:19-83
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/7a2f550b032a577a9463eb135091242e/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/7a2f550b032a577a9463eb135091242e/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/7a2f550b032a577a9463eb135091242e/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/7a2f550b032a577a9463eb135091242e/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/7a2f550b032a577a9463eb135091242e/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-common-4.33.0.aar/7a2f550b032a577a9463eb135091242e/AndroidManifest.xml:33:19-68
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from [:react-native-calendar-events] /home/chris/Desktop/weize1.1/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from [:react-native-calendar-events] /home/chris/Desktop/weize1.1/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:22-70
+uses-permission#android.permission.READ_CALENDAR
+ADDED from [:react-native-calendar-events] /home/chris/Desktop/weize1.1/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from [:react-native-calendar-events] /home/chris/Desktop/weize1.1/node_modules/react-native-calendar-events/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:22-69
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/dc14180b3d076073193a1ae7a92fc0c3/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/dc14180b3d076073193a1ae7a92fc0c3/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/dc14180b3d076073193a1ae7a92fc0c3/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/dc14180b3d076073193a1ae7a92fc0c3/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/dc14180b3d076073193a1ae7a92fc0c3/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/dc14180b3d076073193a1ae7a92fc0c3/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/dc14180b3d076073193a1ae7a92fc0c3/AndroidManifest.xml:45:13-86
+intent-filter#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/dc14180b3d076073193a1ae7a92fc0c3/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/dc14180b3d076073193a1ae7a92fc0c3/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.33.0] /home/chris/.gradle/caches/transforms-1/files-1.1/facebook-core-4.33.0.aar/dc14180b3d076073193a1ae7a92fc0c3/AndroidManifest.xml:48:25-92
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:1:1-93:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:1:1-93:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/chris/Desktop/weize1.1/android/app/src/main/AndroidManifest.xml:1:1-93:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

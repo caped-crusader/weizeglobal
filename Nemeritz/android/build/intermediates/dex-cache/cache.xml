@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-background-timer\android\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="832fc04398f09286d944049027fbcc02597b362a">
+        <dex dex="C:\Users\gautam\StudioProjects\weize1.1\android\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-vector-icons\android\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="C:\Users\gautam\StudioProjects\weize1.1\android\app\build\intermediates\transforms\preDex\release\39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-calendar-events\android\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="68e37a64c7553cdd4f0c6572ffd5c3599c0ef591">
+        <dex dex="C:\Users\gautam\StudioProjects\weize1.1\android\app\build\intermediates\transforms\preDex\release\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-webrtc\android\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a70e9ed4de81dd9b450c0989fd3a386afaeed569">
+        <dex dex="C:\Users\gautam\StudioProjects\weize1.1\android\app\build\intermediates\transforms\preDex\release\40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\cae114246211e4b6f842ad92bf818dc8\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\gautam\StudioProjects\weize1.1\android\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gautam\StudioProjects\weize1.1\android\sdk\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72c8c20d97a0b6e993012b2139d2794060b9d92b">
+        <dex dex="C:\Users\gautam\StudioProjects\weize1.1\android\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-fetch-blob\android\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6d4dda59d855a3da85b0ce7c86f602f1675b1594">
+        <dex dex="C:\Users\gautam\StudioProjects\weize1.1\android\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-sound\android\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d1c34c1cab3be4e7fbfa2a8e4dcabcf941f22a0">
+        <dex dex="C:\Users\gautam\StudioProjects\weize1.1\android\app\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-webrtc\android\libs\libwebrtc.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d73f184efb520dde5549fd880f8ac6275f7b14d0">
+        <dex dex="C:\Users\gautam\StudioProjects\weize1.1\android\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-keep-awake\android\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25b4747216a57a7164f8e39248ea3a866b856803">
+        <dex dex="C:\Users\gautam\StudioProjects\weize1.1\android\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-locale-detector\android\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5f012207e5fe57089aa354351405f19898895606">
+        <dex dex="C:\Users\gautam\StudioProjects\weize1.1\android\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gautam\StudioProjects\weize1.1\node_modules\react-native-immersive\android\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd841e74422519b8ade3e4a86822217eb80ca454">
+        <dex dex="C:\Users\gautam\StudioProjects\weize1.1\android\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gautam\.gradle\caches\transforms-1\files-1.1\react-native-0.51.0.aar\cae114246211e4b6f842ad92bf818dc8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="99941aaaf86dc5e525cd9208c2f7c9a624f4f004">
+        <dex dex="C:\Users\gautam\StudioProjects\weize1.1\android\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+
+</items>

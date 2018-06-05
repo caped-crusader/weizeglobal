@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e84538f8daa27a367b125aed44772050/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e84538f8daa27a367b125aed44772050/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\fb47d48cea5787264edf72905da871ee\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e84538f8daa27a367b125aed44772050/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\fb47d48cea5787264edf72905da871ee\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\fb47d48cea5787264edf72905da871ee\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/sdk/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/chris/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/e84538f8daa27a367b125aed44772050/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\StudioProjects\\weize1.1\\android\\sdk\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "/home/chris/Desktop/weize1.1/android/C:\\Users\\gautam\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\fb47d48cea5787264edf72905da871ee\\res\\layout-v21\\notification_action.xml"
+    }
+]
