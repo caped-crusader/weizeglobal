@@ -21,29 +21,31 @@
         android:layout_marginBottom="24dp"
         android:src="@drawable/logo" />
 
-    <Button
-        android:id="@+id/btn_conf"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:scaleType="fitCenter"
-        android:layout_marginTop="30dp"
-        android:paddingTop="20dp"
-        android:paddingBottom="20dp"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:text="Conference" />
+        <Button
+            android:id="@+id/btn_conf"
+            style="@style/com_facebook_loginview_default_style"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:paddingBottom="20dp"
+            android:paddingTop="20dp"
+            android:scaleType="fitCenter"
+            android:text="Conference" />
 
-    <Button
-        android:id="@+id/btn_profile"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:scaleType="fitCenter"
-        android:layout_marginTop="30dp"
-        android:paddingTop="20dp"
-        android:paddingBottom="20dp"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:text="My Profile" />
+        <Button
+            android:id="@+id/btn_profile"
+            style="@style/com_facebook_loginview_default_style"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp"
+            android:paddingBottom="20dp"
+            android:paddingTop="20dp"
+            android:scaleType="fitCenter"
+            android:text="Sign In" />
 
     <!--<Button-->
         <!--android:id="@+id/btn_logout"-->

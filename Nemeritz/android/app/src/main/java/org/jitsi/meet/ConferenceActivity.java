@@ -29,6 +29,8 @@ import org.jitsi.meet.sdk.invite.InviteControllerListener;
 
 import com.calendarevents.CalendarEventsPackage;
 
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -58,6 +60,14 @@ public class ConferenceActivity extends JitsiMeetActivity {
     @Override
     protected JitsiMeetView initializeView() {
         JitsiMeetView view = super.initializeView();
+
+        try {
+            URL url = new URL("http://video.pcmtech.co.nz/");
+            view.setDefaultURL(url);
+        }
+        catch (MalformedURLException e) {
+
+        }
 
         // XXX In order to increase (1) awareness of API breakages and (2) API
         // coverage, utilize JitsiMeetViewListener in the Debug configuration of

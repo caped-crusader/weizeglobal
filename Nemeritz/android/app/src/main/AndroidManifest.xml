@@ -23,11 +23,11 @@
         <action android:name="android.intent.action.VIEW" />
         <category android:name="android.intent.category.BROWSABLE" />
         <category android:name="android.intent.category.DEFAULT" />
-        <data android:host="beta.hipchat.me" android:scheme="https" />
-        <data android:host="beta.meet.jit.si" android:scheme="https" />
-        <data android:host="chaos.hipchat.me" android:scheme="https" />
-        <data android:host="enso.me" android:scheme="https" />
-        <data android:host="hipchat.me" android:scheme="https" />
+        <!--<data android:host="beta.hipchat.me" android:scheme="https" />-->
+        <!--<data android:host="beta.meet.jit.si" android:scheme="https" />-->
+        <!--<data android:host="chaos.hipchat.me" android:scheme="https" />-->
+        <!--<data android:host="enso.me" android:scheme="https" />-->
+        <!--<data android:host="hipchat.me" android:scheme="https" />-->
         <data android:host="video.pcmtech.co.nz" android:scheme="https" />
       </intent-filter>
       <intent-filter>
@@ -49,18 +49,19 @@
         <action android:name="android.intent.action.VIEW" />
         <category android:name="android.intent.category.BROWSABLE" />
         <category android:name="android.intent.category.DEFAULT" />
-        <data android:host="beta.hipchat.me" android:scheme="https" />
-        <data android:host="beta.meet.jit.si" android:scheme="https" />
-        <data android:host="chaos.hipchat.me" android:scheme="https" />
-        <data android:host="enso.me" android:scheme="https" />
-        <data android:host="hipchat.me" android:scheme="https" />
+        <!--<data android:host="beta.hipchat.me" android:scheme="https" />-->
+        <!--<data android:host="beta.meet.jit.si" android:scheme="https" />-->
+        <!--<data android:host="chaos.hipchat.me" android:scheme="https" />-->
+        <!--<data android:host="enso.me" android:scheme="https" />-->
+        <!--<data android:host="hipchat.me" android:scheme="https" />-->
         <data android:host="video.pcmtech.co.nz" android:scheme="https" />
       </intent-filter>
       <intent-filter>
         <action android:name="android.intent.action.VIEW" />
         <category android:name="android.intent.category.BROWSABLE" />
         <category android:name="android.intent.category.DEFAULT" />
-        <data android:scheme="org.jitsi.meet" />
+        <!--<data android:scheme="org.jitsi.meet:https://video.pcmtech.co.nz" />-->
+          <data android:host="video.pcmtech.co.nz" android:scheme="https" />
       </intent-filter>
     </activity>
     <activity
@@ -75,18 +76,18 @@
         <action android:name="android.intent.action.VIEW" />
         <category android:name="android.intent.category.BROWSABLE" />
         <category android:name="android.intent.category.DEFAULT" />
-        <data android:host="beta.hipchat.me" android:scheme="https" />
-        <data android:host="beta.meet.jit.si" android:scheme="https" />
-        <data android:host="chaos.hipchat.me" android:scheme="https" />
-        <data android:host="enso.me" android:scheme="https" />
-        <data android:host="hipchat.me" android:scheme="https" />
+        <!--<data android:host="beta.hipchat.me" android:scheme="https" />-->
+        <!--<data android:host="beta.meet.jit.si" android:scheme="https" />-->
+        <!--<data android:host="chaos.hipchat.me" android:scheme="https" />-->
+        <!--<data android:host="enso.me" android:scheme="https" />-->
+        <!--<data android:host="hipchat.me" android:scheme="https" />-->
         <data android:host="video.pcmtech.co.nz" android:scheme="https" />
       </intent-filter>
       <intent-filter>
         <action android:name="android.intent.action.VIEW" />
         <category android:name="android.intent.category.BROWSABLE" />
         <category android:name="android.intent.category.DEFAULT" />
-        <data android:scheme="org.jitsi.meet" />
+        <data android:scheme= "org.jitsi.meet" />
       </intent-filter>
     </activity>
   </application>

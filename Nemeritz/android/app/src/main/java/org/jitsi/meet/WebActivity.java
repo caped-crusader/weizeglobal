@@ -17,6 +17,7 @@ public class WebActivity extends AppCompatActivity {
         mWebView = (WebView) findViewById(R.id.webview);
         mWebView.getSettings().setJavaScriptEnabled(true);
         mWebView.setWebViewClient(new HelloWebViewClient());
+        mWebView.setWebContentsDebuggingEnabled(false);
 
         String url = "http://weizeglobal.com";
         mWebView.loadUrl(url);
